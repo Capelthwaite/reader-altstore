@@ -1,0 +1,41 @@
+{
+  "name": "Reader Builds",
+  "subtitle": "Development releases of Reader.",
+  "description": "Install and update Reader development builds through AltStore Classic.",
+  "iconURL": "https://raw.githubusercontent.com/Capelthwaite/reader-altstore/main/reader-icon.png",
+  "tintColor": "#43665B",
+  "featuredApps": [
+    "com.capelthwaite.reader"
+  ],
+  "apps": [
+    {
+      "name": "Reader",
+      "bundleIdentifier": "com.capelthwaite.reader",
+      "developerName": "Capelthwaite",
+      "subtitle": "Listen to EPUB books with local-first reading progress.",
+      "localizedDescription": "Reader imports EPUB books, reads them aloud, and keeps books and playback progress on your device.",
+      "iconURL": "https://raw.githubusercontent.com/Capelthwaite/reader-altstore/main/reader-icon.png",
+      "tintColor": "#43665B",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "buildVersion": "2",
+          "date": "2026-07-21T15:23:12.798Z",
+          "localizedDescription": "Initial Reader release for the AltStore update source.",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.2.0-build.2/Reader-altstore.ipa",
+          "size": 14070333,
+          "sha256": "60df20807fe634ec86a9674d74fa863742932ed1e91e213fde895ba1780b82ef",
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Allow Reader to access your microphone"
+        }
+      }
+    }
+  ],
+  "news": []
+}
