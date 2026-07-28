@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.2.0",
+          "buildVersion": "4",
+          "date": "2026-07-28T18:46:39.077Z",
+          "localizedDescription": "Restore preserved library records and include native Premium playback improvements",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.2.0-build.4/Reader-altstore.ipa",
+          "size": 13261246,
+          "sha256": "433ab69498018c466bfbdc7e8bafc993c7195f662ec28e120fe690f568ffc28b",
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "0.2.0",
           "buildVersion": "3",
           "date": "2026-07-28T17:41:19.658Z",
           "localizedDescription": "Native Premium audio queue, rolling buffering, segmented offline cache, and seamless voice handoffs",
