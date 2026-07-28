@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.2.0",
+          "buildVersion": "3",
+          "date": "2026-07-28T17:41:19.658Z",
+          "localizedDescription": "Native Premium audio queue, rolling buffering, segmented offline cache, and seamless voice handoffs",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.2.0-build.3/Reader-altstore.ipa",
+          "size": 13255663,
+          "sha256": "4bd5b3e375da2268284e728eae5f67ff604154f9a6918ee46b915e5c5083c7fa",
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "0.2.0",
           "buildVersion": "2",
           "date": "2026-07-21T15:23:12.798Z",
           "localizedDescription": "Initial Reader release for the AltStore update source.",
