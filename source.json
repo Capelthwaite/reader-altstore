@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "11",
+          "date": "2026-07-29T22:31:41.570Z",
+          "localizedDescription": "Read sentence-final all-caps runs as a shout, on top of the stop, highlight, and pronunciation fixes",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.11/Reader-altstore.ipa",
+          "size": 27390620,
+          "sha256": "f7a0f902248070f011dddfe464d524b00d45357b975474a873906ee9636767a9",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "10",
           "date": "2026-07-29T22:20:37.917Z",
           "localizedDescription": "Fix silent on-device stops, highlight drift behind the narrator, and all-caps narration",
