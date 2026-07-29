@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "7",
+          "date": "2026-07-29T04:58:52.088Z",
+          "localizedDescription": "Fix Offline Premium startup crash and preserve Reader launch",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.7/Reader-altstore.ipa",
+          "size": 27258930,
+          "sha256": "e6de249a56573c3304b54edf4a92b11062d41fff4adc9a583a458a74e333c5be",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "6",
           "date": "2026-07-29T03:53:34.904Z",
           "localizedDescription": "Add optional on-device Premium Kokoro with cache-first hybrid playback",
