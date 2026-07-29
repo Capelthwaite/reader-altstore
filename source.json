@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "8",
+          "date": "2026-07-29T05:13:26.641Z",
+          "localizedDescription": "Embed Offline Kokoro framework and prevent missing-framework launch crashes",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.8/Reader-altstore.ipa",
+          "size": 27370365,
+          "sha256": "b6dc6a3d24c902c6cb5c205a35d6543baea908478bebc7e973d333f1e7f5fa0c",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "7",
           "date": "2026-07-29T04:58:52.088Z",
           "localizedDescription": "Fix Offline Premium startup crash and preserve Reader launch",
