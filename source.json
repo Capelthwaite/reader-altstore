@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "6",
+          "date": "2026-07-29T03:53:34.904Z",
+          "localizedDescription": "Add optional on-device Premium Kokoro with cache-first hybrid playback",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.6/Reader-altstore.ipa",
+          "size": 13553763,
+          "sha256": "7e2a700cd078e24eae9142499b2e110735eeb9155a165c5997b4cdb65e1212fb",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "5",
           "date": "2026-07-28T21:51:47.525Z",
           "localizedDescription": "Combine Premium playback with EPUB, PDF, website, and Safari imports",
