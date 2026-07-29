@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "9",
+          "date": "2026-07-29T14:53:51.902Z",
+          "localizedDescription": "Fix downloaded Offline Premium routing and prevent Ellis fallback",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.9/Reader-altstore.ipa",
+          "size": 27372016,
+          "sha256": "a92646f2dcd34f02c5af4770a65269c35af78517c7274cfd5cd560d8db66e79e",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "8",
           "date": "2026-07-29T05:13:26.641Z",
           "localizedDescription": "Embed Offline Kokoro framework and prevent missing-framework launch crashes",
