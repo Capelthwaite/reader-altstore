@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "15",
+          "date": "2026-07-30T19:42:25.740Z",
+          "localizedDescription": "Fix keyboard covering pronunciation input fields",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.15/Reader-altstore.ipa",
+          "size": 27430109,
+          "sha256": "3560776dc31d1d90592271c4a573697e5a88f644c68a79e1d75bffed970de34c",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "14",
           "date": "2026-07-30T17:03:41.987Z",
           "localizedDescription": "Pronunciation dictionary with keyboard avoidance fix",
