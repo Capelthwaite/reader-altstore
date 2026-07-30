@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "16",
+          "date": "2026-07-30T21:16:55.291Z",
+          "localizedDescription": "Diagnostics build: say why on-device is bypassed, attribute unexplained pauses, and retry the network failures expo/fetch actually produces",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.16/Reader-altstore.ipa",
+          "size": 27413780,
+          "sha256": "4da657425214a69c6fb021f887aa5c4a1e6b1b86e7c17e9e749068bce257f553",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "15",
           "date": "2026-07-30T19:42:25.740Z",
           "localizedDescription": "Fix keyboard covering pronunciation input fields",
