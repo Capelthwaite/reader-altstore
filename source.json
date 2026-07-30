@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "13",
+          "date": "2026-07-30T16:53:51.905Z",
+          "localizedDescription": "Pronunciation dictionary: fix mispronounced names and words from Settings",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.13/Reader-altstore.ipa",
+          "size": 27401380,
+          "sha256": "b20d01ba7817ff41b3f4dad979b9bb30baef765261f51227242f466ae7203321",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "12",
           "date": "2026-07-30T01:45:34.332Z",
           "localizedDescription": "Restore Premium gateway config; recover from transient cloud failures; shout, highlight, and pronunciation fixes",
