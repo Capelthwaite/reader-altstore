@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "12",
+          "date": "2026-07-30T01:45:34.332Z",
+          "localizedDescription": "Restore Premium gateway config; recover from transient cloud failures; shout, highlight, and pronunciation fixes",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.12/Reader-altstore.ipa",
+          "size": 27390774,
+          "sha256": "60440e5c6f29ffaa53c9f9c192b937a9e73c39d934ec4922930461e7075bce50",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "11",
           "date": "2026-07-29T22:31:41.570Z",
           "localizedDescription": "Read sentence-final all-caps runs as a shout, on top of the stop, highlight, and pronunciation fixes",
