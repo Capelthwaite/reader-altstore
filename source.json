@@ -20,6 +20,16 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "17",
+          "date": "2026-07-31T23:18:44.342Z",
+          "localizedDescription": "Never revert a chosen voice; capitals in a respelling now change stress; edits apply immediately; log survives a long session",
+          "downloadURL": "https://github.com/Capelthwaite/reader-altstore/releases/download/v0.3.0-build.17/Reader-altstore.ipa",
+          "size": 27424834,
+          "sha256": "c32685b7c1156237969bd6c2a78012388702b88e6581c81d67af4a5f52377434",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "16",
           "date": "2026-07-30T21:16:55.291Z",
           "localizedDescription": "Diagnostics build: say why on-device is bypassed, attribute unexplained pauses, and retry the network failures expo/fetch actually produces",
